@@ -1,6 +1,6 @@
 Apex-Rest-Demo
 ==============
-Quick demo to Apex Rest
+Quick demo on Apex Rest
 
 Endpoint URLs to call the web services:
 
